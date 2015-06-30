@@ -1,0 +1,8 @@
+51:13:04 30/06/2015-FATAL-program startsFATAL main:51 - program starts
+30/06/2015 04:18:27 - FATAL - program startsFATAL main:51 - program starts
+30/06/2015 04:57:13 - FATAL - program startsFATAL main:50 - program starts
+30/06/2015 04:57:20 - FATAL - Application runningFATAL main:12 - Application running
+30/06/2015 05:01:41 - FATAL - Application runningFATAL main:12 - Application running
+30/06/2015 05:02:38 - ERROR - Malformed URL: hahaERROR main:95 - Malformed URL: haha
+30/06/2015 05:05:24 - FATAL - Application runningFATAL main:12 - Application running
+30/06/2015 05:05:30 - ERROR - Malformed URL: kkaskERROR main:95 - Malformed URL: kkask
