@@ -17,7 +17,7 @@ import java.util.Date;
  */
 public class LoggerToFileTest {
     public static final String name = "main";
-    public static final String path = "/home/andriylazorenko/IdeaProjects/ExUaDownload/src/main/resources/log.txt";
+    public static final String path = "src/main/resources/log.txt";
 
     public static void main(String[] args) {
         Logger logger = Logger.getLogger(name);

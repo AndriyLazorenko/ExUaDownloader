@@ -17,7 +17,7 @@ public class Model {
 
     private Model() {
         try {
-            this.properties.load(new FileReader("/home/andriylazorenko/IdeaProjects/ExUaDownload/src/main/resources/Properties.properties"));
+            this.properties.load(new FileReader("src/main/resources/Properties.properties"));
         } catch (IOException e) {
             e.printStackTrace();
             loggerToFile.getLogger().error(e.getMessage());

@@ -13,7 +13,7 @@ import java.util.Date;
  */
 public class LoggerToFile {
     private static final String name = "main";
-    private static final String path = "/home/andriylazorenko/IdeaProjects/ExUaDownload/src/main/resources/log.txt";
+    private static final String path = "src/main/resources/log.txt";
 
     public Logger getLogger() {
         return logger;
